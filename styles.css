@@ -1,0 +1,64 @@
+p {
+  font-family: sans-serif;
+}
+
+
+header {
+  height: 40px;
+  background-color: black;
+}
+
+main {
+  margin-left: 30px;
+}
+
+.header-title {
+  positon: relative;
+  top: 3px;
+  left: 10px;
+  color: white;
+}
+
+.form-title {
+  font-family: avenir, sans-serif;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.form-subhead {
+  font-family: avenir, sans-serif;
+  font-weight: lighter;
+  font-size: .7em;
+}
+
+.input-box {
+  border-color: #33b65f;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 70px;
+}
+
+.form-section {
+  margin-bottom: 25px;
+}
+
+footer {
+  height: 70px;
+  background-color: #33b65f;
+  position: absolute;
+  bottom: 0;
+  width: 420px;
+  margin: 0 auto;
+}
+
+.link {
+  font-family: avenir, sans-serif;
+  font-weight: medium;
+  font-size: 1em;
+  letter-spacing: .3px;
+  color: white;
+  text-align: center;
+  position: relative;
+  left: 42%;
+}
